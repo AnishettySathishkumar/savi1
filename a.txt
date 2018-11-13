@@ -9,3 +9,4 @@ how are you
 sandeep jenkins
 hi this is new commite... if you give new commite.. jenkins get the code from 
 git hub and build triggering automatically.
+this setting is succesfull..
